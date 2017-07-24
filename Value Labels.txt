@@ -1,0 +1,460 @@
+Value Labels
+h15
+1 'Si'
+2 'No'/
+Region
+1 'Gran Buenos Aires"'
+40 'Noroeste'
+41 'Nordeste'
+42 'Cuyo'
+43 'Pampeana'
+44 'Patagonica'/
+mas_500
+'N' 'Aglomerados menos de 500.000 habitantes'
+'S' 'Aglomerados mas de 500.000 habitantes'/
+Aglomerado
+2 'Gran La Plata'
+3 'Bahia Blanca - Cerri'
+4 'Gran Rosario'
+5 'Gran Santa Fe'
+6 'Gran Parana'
+7 'Posadas'
+8 'Gran Resistencia'
+9 'Cdro. Rivadavia - R.Tilly'
+10 'Gran Mendoza'
+12 'Corrientes'
+13 'Gran Cordoba'
+14 'Concordia'
+15 'Formosa'
+17 'Neuquen – Plottier'
+18 'S.del Estero - La Banda'
+19 'Jujuy - Palpala'
+20 'Rio Gallegos'
+22 'Gran Catamarca'
+23 'Salta'
+25 'La Rioja'
+26 'San Luis - El Chorrillo'
+27 'Gran San Juan'
+29 'Gran Tucuman - T. Viejo'
+30 'Santa Rosa - Toay'
+31 'Ushuaia - Rio Grande'
+32 'Ciudad de Bs As'
+33 'Partidos del GBA'
+34 'Mar del Plata - Batan'
+36 'Rio Cuarto'
+38 'San Nicolas – Villa Constitucion'
+91 'Rawson – Trelew'
+93 'Viedma – Carmen de Patagones'/
+ch03
+1 'Jefe/a'
+2 'Conyuge/Pareja'
+3 'Hijo/Hijastro/a'
+4 'Yerno/Nuera'
+5 'Nieto/a'
+6 'Madre/Padre'
+7 'Suegro/a'
+8 'Hermano/a'
+9 'Otros Familiares'
+10 'No Familiares'/
+ch04
+1 'Varon'
+2 'Mujer'/
+ch07
+1 'Unido'
+2 'Casado'
+3 'Separado/a o divorciado/a'
+4 'Viudo/a'
+5 'Soltero/a'
+9 'Ns./Nr.'/
+ch08
+1 'Obra social (incluye PAMI)'
+2 'Mutual / Prepaga / Servicio de emergencia'
+3 'Planes y seguros publicos'
+4 'No paga ni le descuentan'
+9 'Ns./Nr.'
+12 'Obra social y mutual/prepaga/servicio de emergencia'
+13 'Obra social y Planes y Seguros Publicos'
+23 'Mutual/prepaga/servicio de emergencia/ Planes y Seguros Publicos'
+123 'Obra social, mutual/prepaga/servicio de emergencia y Planes y Seguros Publicos'/
+ch09
+1 'Si'
+2 'No'
+3 'Menor de 2 años'
+9 'Ns./Nr.'/
+ch10
+1 'Si, asiste'
+2 'No asiste, pero asistio'
+3 'Nunca asistio'
+9 'Ns./Nr.'/
+ch11
+1 'Publico'
+2 'Privado'
+9 'Ns./Nr.'/
+ch12
+1 'Jardin/ Preescolar'
+2 'Primario'
+3 'EGB'
+4 'Secundario'
+5 'Polimodal'
+6 'Terciario'
+7 'Universitario'
+8 'Posgrado Univ.'
+9 'Educacion especial (discapacitado)'
+99 'Ns./Nr.'/
+ch13
+1 'Si'
+2 'No'
+9 'Ns./Nr.'/
+ch14
+0 'Ninguno'
+1 'Primero'
+2 'Segundo'
+3 'Tercero'
+4 'Cuarto'
+5 'Quinto'
+6 'Sexto'
+7 'Septimo'
+8 'Octavo'
+9 'Noveno'
+98 'Educacion especial'
+99 'Ns./Nr.'/
+ch15
+1 'En esta localidad'
+2 'En otra localidad de esta provincia'
+3 'En otra provincia (especificar)'
+4 'En un pais limitrofe (especificar Brasil, Bolivia, Chile, Paraguay, Uruguay)'
+5 'En otro pais (especificar)'
+9 'Ns./Nr.'/
+ch16
+1 'En esta localidad'
+2 'En otra localidad de esta provincia'
+3 'En otra provincia (especificar)'
+4 'En un pais limitrofe (especificar Brasil, Bolivia, Chile, Paraguay, Uruguay)'
+5 'En otro pais (especificar)'
+6 'No habia nacido'
+9 'Ns./Nr.'/
+nivel_ed
+1 'Primaria Incompleta(incluye educacion especial)'
+2 'Primaria Completa'
+3 'Secundaria Incompleta'
+4 'Secundaria Completa'
+5 'Superior Universitaria Incompleta'
+6 'Superior Universitaria Completa'
+7 'Sin instruccion'
+9 'Ns./ Nr.'/
+estado
+0 'Entrevista individual no realizada (no respuesta al Cuestionario Individual)'
+1 'Ocupado'
+2 'Desocupado'
+3 'Inactivo'
+4 'Menor de 10 años'/
+cat_ocup
+1 'Patron'
+2 'Cuenta propia'
+3 'Obrero o empleado'
+4 'Trabajador familiar sin remuneracion'
+9 'Ns./Nr.'/
+cat_inac
+1 'Jubilado/ Pensionado'
+2 'Rentista'
+3 'Estudiante'
+4 'Ama de casa'
+5 'Menor de 6 años'
+6 'Discapacitado'
+7 'Otros'/
+pp02c1
+1 'Si'
+2 'No'/
+pp02c2
+1 'Si'
+2 'No'/
+pp02c3
+1 'Si'
+2 'No'/
+pp02c4
+1 'Si'
+2 'No'/
+pp02c5
+1 'Si'
+2 'No'/
+pp02c6
+1 'Si'
+2 'No'/
+pp02c7
+1 'Si'
+2 'No'/
+pp02c8
+1 'Si'
+2 'No'/
+pp02e 
+1 'esta suspendido'
+2 'ya tiene trabajo asegurado'
+3 'se canso de buscar trabajo'
+4 'hay poco trabajo en esta epoca del año'
+5 'por otras razones'/
+pp02h
+1 'Si'
+2 'No'/
+pp02i
+1 'Si'
+2 'No'/
+pp03c
+1 'un solo empleo/ocupacion/ actividad'
+2 'mas de un empleo/ocupacion/ actividad'/
+pp03g
+1 'Si'
+2 'No'/
+pp03h
+1 'podia trabajarlas esa semana'
+2 'podia empezar a trabajarlas en dos semanas a mas tardar'
+3 'no podia trabajar mas horas'
+9 'Ns./Nr.'/
+pp03i
+1 'Si'
+2 'No'/
+pp03j
+1 'Si'
+2 'No'/
+intensi
+1 'Subocupado por insuficiencia horaria'
+2 'Ocupado pleno'
+3 'Sobreocupado'
+4 'Ocupado que no trabajo en la semana'
+9 'Ns./Nr.'/
+pp04a 
+1 'Estatal'
+2 'Privada'
+3 'De otro tipo (especificar)'
+9 'Ns./Nr.'/
+pp04b1
+1 'Si'
+2 'No'/
+pp04c
+1 '1 persona'
+2 '2 personas'
+3 '3 personas'
+4 '4 personas'
+5 '5 personas'
+6 'de 6 a 10 personas'
+7 'de 11 a 25 personas'
+8 'de 26 a 40 personas'
+9 'de 41 a 100 personas'
+10 'de 101 a 200 personas'
+11 'de 201 a 500 personas'
+12 'mas de 500 personas'
+99 'Ns./Nr.'/
+pp04c99
+1 'hasta 5'
+2 'de 6 a 40'
+3 'mas de 40'
+9 'Ns./Nr.'/
+pp04g
+1 'En un local/oficina/establecimiento negocio/taller/chacra/finca'
+2 'En puesto o kiosco fijo callejero'
+3 'En vehiculos: bicicleta/moto/autos/barcos/botes (no incluye servicio de transporte)'
+4 'En vehiculo para transporte de personasy mercaderias-aereos, maritimo, terrestre incluye taxis, colectivos, camiones,furgones, transporte de combustible, mudanzas, etc.)'
+5 'En obras en construccion, de infraestructura, mineria o similares'
+6 'En esta vivienda(sin lugar exclusivo)'
+7 'En la vivienda del socio o del patron'
+8 'En el domicilio/local de los clientes'
+9 'En la calle/espacios publicos/ambulante/de casa en casa/puesto movil callejero'
+10 'En otro lugar (especificar)'
+99 'Ns./Nr.'/
+pp05c_1
+1 'propio (del negocio)'
+2 'prestado/alquilado'
+3 'no tiene'
+9 'Ns./Nr.'/
+pp05c_2 
+1 'propio (del negocio)'
+2 'prestado/alquilado'
+3 'no tiene'
+9 'Ns./Nr.'/
+pp05c_3  
+1 'propio (del negocio)'
+2 'prestado/alquilado'
+3 'no tiene'
+9 'Ns./Nr.'/
+pp05e
+1 'Si'
+2 'No'/
+pp05f 
+6 'un solo cliente? (persona, empresa)'
+7 'distintos clientes? (incluye publico en general)'/
+pp05h
+1 'menos de 1 mes'
+2 'de 1 a 3 meses'
+3 'mas de 3 a 6 meses'
+4 'mas de 6 meses a 1 año'
+5 'mas de 1 a 5 años'
+6 'mas de 5 años'
+9 'Ns./Nr.'/
+pp06a
+1 'Si'
+2 'No'/
+pp06e
+1 'es una sociedad juridicamente constituida?(SA, SRL, Comandita por acciones, etc.)'
+2 'es una sociedad de otra forma legal'
+3 'o es una sociedad convenida de palabra'/
+pp06h
+1 'Si'
+2 'No'/
+pp07a
+1 'menos de 1 mes'
+2 '1 a 3 meses'
+3 'mas de 3 a 6 meses'
+4 'mas de 6 a 12 meses'
+5 'mas de 1 a 5 años'
+6 'mas de 5 años'
+9 'Ns./Nr.'/
+pp07c 
+1 'Si (incluye changa, trabajo transitorio, por tarea u obra, suplencia, etc'
+2 'No, (incluye permanente, fijo, estable, de planta)'
+9 'Ns./Nr.'/
+pp07d 
+1 'solo fue esa vez/solo cuando lo llaman'
+2 'hasta 3 meses'
+3 'mas de 3 a 6 meses'
+4 'mas de 6 a 12 meses'
+5 'mas de 1 año'
+9 'Ns./Nr.'
+pp07e
+1 'un plan de empleo'
+2 'un periodo de prueba'
+3 'una beca/pasantia/aprendizaje'
+4 'ninguno de estos'
+9 'Ns./Nr.'/
+pp07f1
+1 'Si'
+2 'No'/
+pp07f2
+1 'Si'
+2 'No'/
+pp07f3
+1 'Si'
+2 'No'/
+pp07f4
+1 'Si'
+2 'No'/
+pp07f5
+5 'Si'/
+pp07g1
+1 'Si'
+2 'No'/
+pp07g2
+1 'Si'
+2 'No'/
+pp07g3
+1 'Si'
+2 'No'/
+pp07g4
+1 'Si'
+2 'No'/
+pp07g_59
+5 'Si'
+pp07h
+1 'Si'
+2 'No'/
+pp07i
+1 'Si'
+2 'No'/
+pp07j
+1 'de dia? (mañana/tarde)'
+2 'de noche?'
+3 'de otro tipo? (rotativo, dia y noche, guardias con franco)'
+9 'Ns./Nr.'
+pp07k
+1 'le dan recibo con sello/membrete/firma del empleador'
+2 'le dan un papel/recibo sin nada'
+3 'entrega una factura'
+4 'no le dan ni entrega nada'
+5 'no cobra, es trabajador sin pago/ad-honorem'
+9 'Ns./Nr.'/
+pp09a
+1 'Ciudad de Buenos Aires'
+2 'Partidos del GBA'
+3 'Ambos'
+4 'En otro lugar'
+9 'Ns./Nr.'/
+pp09b
+1 'Si'
+2 'No'/
+pp09c
+1 'en otro lugar de esta provincia'
+2 'en otra provincia'
+3 'en otro pais'
+pp10a
+1 'menos de 1 mes'
+2 'de 1 a 3 meses'
+3 'mas de 3 a 6 meses'
+4 'mas de 6 a 12 meses'
+5 'mas de 1 año'
+9 'Ns./Nr.'/
+pp10c
+1 'Si'
+2 'No'/
+pp10d
+1 'Si'
+2 'No'/
+pp10e
+1 'menos de 1 mes'
+2 'de 1 a 3 meses'
+3 'mas de 3 a 6 meses'
+4 'mas de 6 a 12 meses'
+5 'mas de 1 a 3 años'
+6 'mas de 3 años'
+9 'Ns./Nr.'
+pp11a
+1 'Estatal'
+2 'Privada'
+3 'De otro tipo (especificar)'
+9 'Ns./Nr.'/
+pp11b1
+1 'Si'
+2 'No'/
+pp11l 
+1 'falta de clientes/clientes que no pagan'
+2 'falta de capital/equipamiento'
+3 'trabajo estacional'
+4 'tenia gastos demasiado altos'
+5 'otras causas laborales (especificar)'
+6 'jubilacion/retiro'
+7 'causas personales (matrimonio, embarazo cuidado de hijos o familiar, estudio, enfermedad)'
+9 'Ns./Nr.'/
+pp11l1
+1 'una changa, trabajo transitorio, por tarea u obra, suplencia, etc'
+2 'un trabajo permanente, fijo, estable, de planta, etc.'
+3 'Ns./Nr.'/
+pp11m
+1 'un plan de empleo'
+2 'un periodo de prueba'
+3 'otro tipo de trabajo'/
+pp11n
+1 'Si'
+2 'No'/
+pp11o
+1 'despido/cierre (quiebra/venta/traslado de la empresa reestructuracion o recorte de personal/falta de ventas o clientes)'
+2 'por retiro voluntario del sector publico'
+3 'por jubilacion'
+4 'fin de trabajo temporario/ estacional'
+5 'le pagaban poco/no le pagaban'
+6 'malas relaciones laborales/malas condiciones de trabajo(insalubre, cambios de horarios, etc.)'
+7 'renuncia obligada/pactada'
+8 'otras causas laborales(especificar)'
+9 'por razones personales(matrimonio, embarazo, cuidado de hijos o familia, estudio, enfermedad)'
+pp11p
+1 'Si'
+2 'No'/
+pp11q 
+1 'Si'
+2 'No'/
+pp11r
+1 'Si'
+2 'No'/
+pp11s
+1 'Si'
+2 'No'/
+pp11t
+1 'Si'
+2 'No'/
+Execute.
